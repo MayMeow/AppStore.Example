@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>AppStore.Example.HelloWorld.exe</Id>
+  <PathToDownload>https://maymeow.b-cdn.net/AppStore.Example.HelloWorld.exe</PathToDownload>
+  <Signature>YO715qYoQ9c9cyuGkkLQ1U6HI70JVnqLhQeDEDfWz9bSK+ZxqgDHwksTQL/xYLv+l+RtKmaaapXzznOdYlUz3A==</Signature>
+  <Hash>F742BBA8AF542B4E8A283465D61118D37F1FAE94E30D398E693B483AA26E0429</Hash>
+</ApplicationManifest>
